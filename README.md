@@ -1,0 +1,2 @@
+# PracticaEstructuraSecuenciales
+Ejercicios de practica
